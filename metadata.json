@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Reserves d'Aules",
+  "description": "Una aplicació completa per gestionar la reserva d’aules en un centre educatiu, permetent la gestió d'aules, reserves i usuaris amb diferents perfils.",
+  "requestFramePermissions": []
+}
